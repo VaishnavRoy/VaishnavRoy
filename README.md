@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Vaishnav
-- 👀 I’m Developer in java 
+- 👀 I’m Developer in java, MERN stack
 - 🌱 I’m currently Learning Python & Android
 - 💞️ I’m looking to collaborate with opensource projects
 - 📫 How to reach me email id:-@rahul12vaishnav24@gmail.com
